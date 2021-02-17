@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  appName: "express template app",
+  appName: "express app template",
   port: 8080,
   viewEngine: "ejs",
   views: path.join(__dirname, "views"),
